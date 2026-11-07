@@ -8,6 +8,7 @@ This folder contains forecasting models developed to support production planning
 2. `02_transportation_demand_forecasting.ipynb` — Forecast transportation and logistics requirements based on available historical data.
 3. `03_capacity_utilization_forecasting.ipynb` — Estimate future facility or transportation capacity utilization where sufficient data is available.
 4. `04_forecast_evaluation.ipynb` — Evaluate forecasting performance using appropriate metrics and compare predicted values with actual observations.
+5. `05_material_demand_forecasting.ipynb` - This will forecast future demand for operational materials, spare parts and maintenance supplies, provided the data supports it.
 
 ## Tools
 
